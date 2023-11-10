@@ -1,0 +1,32 @@
+#imgAndText{
+    display: flex;
+}
+#schoolimg{
+    margin-right: 10px;
+}
+#heading {
+    display: block;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.schoolname{
+    color: #222F5B;
+    line-height: 50px;
+    font-weight: 900;
+    font-size: 40px;
+}
+
+.slogan{
+    font-size: small;
+}
+
+#language{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    line-height: 2rem;
+    font-size: 0.8rem;
+    padding: 0 2rem
+}
